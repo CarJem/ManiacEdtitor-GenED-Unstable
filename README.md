@@ -1,1 +1,1 @@
-# ManiacEdtitor-GenED-Unstable
+# Maniac Editor - Generations Edition (Unstable Repo)
